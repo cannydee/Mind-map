@@ -1,4 +1,4 @@
-# Mind-map
+# Mind-Mapping
 This is the mind map for Bagsbycanny
 
 A mind map is a diagram used to visually organize information into a hierarchy, showing relationships among pieces of the whole. It is often created around a single concept where major ideas are connected directly to the central concept, and other ideas branch out from those major ideas. 
